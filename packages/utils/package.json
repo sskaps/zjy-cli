@@ -1,6 +1,6 @@
 {
   "name": "@zjy-cli/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "zjy-cli utils",
   "author": "sskaps <553679741@qq.com>",
   "homepage": "",
@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "47661e6229389b6eb2cf3e1b0c4bc7ad92259b22"
 }
