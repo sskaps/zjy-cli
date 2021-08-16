@@ -1,5 +1,6 @@
 .vscode
 .idea
+.svn
 node_modules
 packages-lock.json
 lerna-debug.log
