@@ -1,6 +1,6 @@
 {
   "name": "@zjy-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "zjy-cli core",
   "author": "sskaps <553679741@qq.com>",
   "homepage": "",
@@ -18,7 +18,7 @@
   ],
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npm.taobao.org"
+    "registry": "https://registry.npmjs.org"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
